@@ -1,4 +1,4 @@
-# Pokedex-ror
+# Pokedex-ROR
 Pokedex app built with Ruby on Rails. This project started as a learning exercise and evolved as I become more knowledgeable in various technologies.
 
 The site can be viewed [here]().
