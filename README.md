@@ -65,6 +65,7 @@ Show page
   - [x] Button to toggle normal and shiny images - make fixed width
   - [x] Slow Ajax/ index page load. -- figure out how I can speed it up
   - [ ] Reset filters when clicking randomize
+  - [ ] Make the Shiny/Normal button fixed width
   - [ ] Firefox Select bug - https://stackoverflow.com/questions/16615346/problems-with-html-select-firefox / https://stackoverflow.com/questions/71213370/select-element-in-firefox-wont-stay-open-when-parent-div-has-a-pseudoelement-on
 
 ### Additional pages/features
