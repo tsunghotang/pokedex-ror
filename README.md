@@ -48,6 +48,8 @@ Index page
   - [x] Move 'clear filter' button to take up own line on mobile
   - [x] Eliminate n+1 queries
   - [x] Create rails helper for 'no_results'
+  - [x] Disable 'randomize' btn when processing and re-enable when finished
+  - [x] Extract Search/filter/randomize into partials
 
 Show page
   - [ ] Think in terms of components - Create components and build page with them
